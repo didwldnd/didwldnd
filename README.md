@@ -7,12 +7,3 @@
     <img src="https://gitfut.com/didwldnd.png?v=2" width="300">  </a>
 </p>
 
-### 📌 Projects
-
-**[DDIP](https://github.com/didwldnd/ddip-web)**  
-크라우드펀딩과 실시간 경매를 제공하는 웹 서비스  
-`Next.js` `React` `TypeScript`
-
-**[SkyTracker](https://github.com/didwldnd/skytracker)**  
-항공편 검색과 가격 알림을 제공하는 여행 앱  
-`React Native` `Expo` `TypeScript`
