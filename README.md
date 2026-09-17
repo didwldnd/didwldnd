@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://gitfut.com/didwldnd">
-    <img src="https://gitfut.com/didwldnd.png" width="300">
-  </a>
+    <img src="https://gitfut.com/didwldnd.png?v=2" width="300">  </a>
 </p>
 
 ### 📌 Projects
