@@ -8,13 +8,13 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 ### ⚽ GitFut
 
-### ⚽ GitFut
-
 <p align="center">
   <a href="https://gitfut.com/didwldnd">
     <img src="https://gitfut.com/didwldnd.png" width="300">
   </a>
-</p><br/>
+</p>
+
+<br/>
 
 ### 📌 Projects
 
